@@ -1,6 +1,9 @@
 # TIS Group 3 - Working Experience
 
-This repository provides an overview of the professional experiences and technical expertise of **Muhammad Azlan bin Adzmi**, **Syed Rafid Jamalaulil**, and **Muhammad Arshad**. Each member has contributed to different fields, including IT, finance, and design, showcasing diverse skills and roles.
+![Screenshot 2024-12-28 012321](https://github.com/user-attachments/assets/eea2cc5a-4050-42ee-b802-abbd1d520d94)
+
+
+This topic provides an overview of the professional experiences and technical expertise of **Muhammad Azlan bin Adzmi**, **Syed Rafid Jamalaulil**, and **Muhammad Arshad**. Each member has contributed to different fields, including IT, finance, and design, showcasing diverse skills and roles.
 
 ---
 
