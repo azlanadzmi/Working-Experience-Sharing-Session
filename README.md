@@ -68,7 +68,3 @@ Arshad’s hands-on experience in 3D design and DIS development has improved his
 
 ---
 
-## **About This Repository**
-This repository highlights the diverse technical expertise and professional experiences of the group members. It showcases their roles, skills, and contributions to their respective fields.
-
-&copy; 2024 TIS Group 3
