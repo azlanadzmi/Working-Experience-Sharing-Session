@@ -68,3 +68,42 @@ Arshad’s hands-on experience in 3D design and DIS development has improved his
 
 ---
 
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman JavaScript & CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contoh JavaScript & CSS Vanilla</h1>
+    <p id="text">Klik butang di bawah untuk ubah teks ini.</p>
+    <button id="btn">Klik Saya</button>
+
+    <script>
+        document.getElementById("btn").addEventListener("click", function() {
+            document.getElementById("text").innerText = "Teks telah berubah!";
+        });
+    </script>
+</body>
+</html>
